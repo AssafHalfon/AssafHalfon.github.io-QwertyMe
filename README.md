@@ -1,1 +1,3 @@
-# AssafHalfon.github.io-QwertyMe
+# QwertyMe Privacy Policy
+
+Cuckoo
