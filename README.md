@@ -28,17 +28,17 @@ IMPORTANT: Please read this document carefully. By downloading, installing, acce
 
 You agree not to:
 
-	(a) sell, rent, lease, sublicense, distribute, host, or commercially exploit the Application;
+(a) sell, rent, lease, sublicense, distribute, host, or commercially exploit the Application;
 
-	(b) copy, reproduce, or use the Application for purposes other than those expressly permitted by this Agreement;
+(b) copy, reproduce, or use the Application for purposes other than those expressly permitted by this Agreement;
 
-	(c) modify, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or underlying algorithms of the Application;
+(c) modify, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or underlying algorithms of the Application;
 
-	(d) remove or alter any proprietary notices, trademarks, or branding;
+(d) remove or alter any proprietary notices, trademarks, or branding;
 
-	(e) bypass or circumvent security or technical protection measures;
+(e) bypass or circumvent security or technical protection measures;
 
-	(f) use the Application in violation of any applicable law or third-party rights.
+(f) use the Application in violation of any applicable law or third-party rights.
 
 
 4. Intellectual Property Rights
@@ -144,10 +144,10 @@ Some jurisdictions do not allow certain limitations of liability, so some of the
 
 You agree to defend, indemnify, and hold harmless the Developer and its affiliates from any claims, damages, liabilities, losses, or expenses arising from:
 
-	(a) your use or misuse of the Application;
-	(b) your User Content;
-	(c) your violation of this Agreement;
-	(d) your violation of applicable law or third-party rights.
+(a) your use or misuse of the Application;
+(b) your User Content;
+(c) your violation of this Agreement;
+(d) your violation of applicable law or third-party rights.
 
 
 13. Prohibited Critical Use
